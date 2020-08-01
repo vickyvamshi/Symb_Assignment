@@ -1,0 +1,46 @@
+.CompOne{
+    border: 1.5px solid red;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+}
+.CompOne-body{
+    height:300px;
+}
+.CompOne-img{
+    height:300px;
+    float:left;
+    margin-left:10px;
+}
+.CompOne-list{
+    float:left;
+    height:300px;
+    margin-left:10px;
+}
+.CompOne-header1{
+    margin-left:10px;
+}
+.CompOne-h{
+    text-align: left;
+}
+.CompOne-p{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.btn{
+    float:right;
+    margin-right:10px;
+    border: none;
+    background-color:turquoise;
+    color:white;
+    font-size:20px;
+}
+
+a{
+    text-decoration: none;
+    float: right;
+    margin-right: 45px;
+    color:turquoise;
+}
+

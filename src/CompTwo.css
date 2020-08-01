@@ -1,0 +1,22 @@
+.CompTwo{
+    border: 1.5px solid red;
+    margin-top:0px;
+    margin-left:50px;
+    margin-right:50px;
+}
+.btn{
+    float:right;
+    margin-right:10px;
+    border: none;
+    background-color:turquoise;
+    color:white;
+    font-size:20px;
+    align-self: center;
+}
+.CompTwo-head{
+    margin-left: 10px;
+}
+a{
+    font-size:15px;
+    color:skyblue;
+}
